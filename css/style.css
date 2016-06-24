@@ -1,0 +1,394 @@
+		.search
+		{
+			background: #fe5e3e none repeat scroll 0 0;
+			border: 3px solid;
+			color: white;
+			float: right;
+			font-size: 18px;
+			margin: 10px;
+
+		}
+		.topsection
+		{
+			width:100%;
+			background : #FE5E3E;
+			float:right ;
+		}
+		header 
+		{
+			background : #2D3B55;
+		}
+		.menu
+		{
+			text-align : center ;
+
+		}
+		.img-responsive
+		{
+			margin: auto;
+			width: auto;
+			display: table;
+		}
+		.blank
+		{
+			 height:18px;
+		}
+		.list
+		{
+			color : white ;
+		}
+		list:hover {
+			background-color: #2D3B55;
+		}
+		ul
+		{
+			margin :auto ;
+			width:18%;
+		}
+		.c1
+		{
+			padding:10px ;
+		}
+
+		.container
+		{
+			padding : 44px ;
+		}
+		.container1
+		{
+			width:100%;
+			background:#504B73;
+			height : 300px ;
+		}
+		.container2
+		{
+			width:100%;
+			background :#F8CF77;
+			height : 300px ;
+
+		}
+		.container3
+		{
+			width:100%;
+			background :#A8DC5E;
+			height : 300px ;
+
+		}
+
+		.container4
+		{
+			width:100%;
+			background :#EF9688;
+			height : 300px ;
+		}
+
+		.container5
+		{
+			width:100%;
+			background-color: #78c0a8;
+			margin: 10px auto;
+			padding: 35px;
+			text-align: center;
+		}
+		.container5 a 
+		{
+			background: transparent none repeat scroll 0 0;
+			border: 3px solid;
+			color: #ffffff;
+			height: 50px;
+			margin: 17px;
+			padding: 10px;
+			text-decoration:none ;
+		}
+		.container5 p
+		{
+			color: #FFFFFF;
+			font-size :23px ;
+		}
+		.img1
+		{
+			width:180px ;
+		}
+		.articles 
+		{
+			background-color: #d7d7d7;
+    		float: none;
+    		margin: 10px auto;
+    		text-align: center;
+    		width: 100%;
+			padding: 36px ;
+			max-width : 1357px ;
+		}
+		.articles p
+		{
+			color: #86b946;
+    		font-family: "Aharoni";
+    		font-size: 29px;
+		}
+		.align
+		{
+			display: table;
+    		margin: auto;
+    		text-align: center;
+		}
+		.img
+		{
+			
+			border-radius: 50%;
+    		margin: auto;
+    		text-align: center;
+    		width: 135px;
+		}
+		.cc1 
+		{
+			color :#f66b6b;
+
+		}
+		.cc2 
+		{
+			color : #1e2d3c ;			
+
+		}
+		.cc3 
+		{
+			color :#017A82;	
+
+		}
+		.cc4 
+		{
+			color: #402140;
+
+		}
+		.cc5
+		{
+			color : #E24815;
+
+		}
+
+		.clr1
+		{
+			
+			background: #f66b6b none repeat scroll 0 0;
+			
+			color :#f66b6b;
+		}
+		.img.clr1:hover
+		{
+			background: #cfcfcf none repeat scroll 0 0;
+			cursor: pointer;
+		}
+		.clr2
+		{
+			background: #1e2d3c none repeat scroll 0 0;
+			color : #1e2d3c ;			
+		}
+		.img.clr2:hover
+		{
+			background: #cfcfcf none repeat scroll 0 0;
+			cursor: pointer;
+		}
+		.clr3
+		{
+			
+			background: #017A82 none repeat scroll 0 0;
+			color :#017A82;	
+		}
+		.img.clr3:hover
+		{
+    		background: #cfcfcf none repeat scroll 0 0;
+    		cursor: pointer;
+		}
+		.clr4
+		{
+			background: #402140 none repeat scroll 0 0;
+			color: #402140;
+   		
+		}
+		.img.clr4:hover
+		{
+    		background: #cfcfcf none repeat scroll 0 0;
+    		cursor: pointer;
+		}
+		.clr5
+		{
+			background: #E24815 none repeat scroll 0 0;
+			color : #E24815;
+    	
+		}
+		.img.clr5:hover
+		{
+    		background: #cfcfcf none repeat scroll 0 0;
+    		cursor: pointer;
+			
+		}
+
+		.spotlight 
+		{
+			text-align : center ;
+			margin : auto 10px  ;
+			width: 100% ; 
+			color : #00A388;
+			font-size : 50px;
+			
+		}
+		.spotlight_container 
+		{
+			text-align : center ;
+			margin : auto 10px  ;
+			width: 100% ; 
+			color : #00A388;
+			font-size : 20px;
+		}
+	
+		.spot_clr1
+		{
+			float  :left ;
+			background: #574981 none repeat scroll 0 0;
+			margin : 1em;
+			color :#FFFFFF;
+			height :180px ;
+			width:180px ;
+			
+		}
+		.spot_clr2
+		{
+			float  :left ;
+			background: #EC6B56 none repeat scroll 0 0;
+			margin : 1em;
+			color :#EC6B56;
+			height :180px ;
+			
+		}
+		.spot_clr3
+		{
+			float  :left ;
+			background: #F6CB6B none repeat scroll 0 0;
+			margin : 1em;
+			color :#F6CB6B;
+			height :180px ;
+			width:350px ;
+		}
+		.spot_clr4
+		{
+			float  :left ;
+			background: #15C1D1 none repeat scroll 0 0;
+			margin : 1em;
+			color :#15C1D1;
+			height :180px ;
+
+		}
+		.align_spotlight
+		{
+			display: inline-flex;
+		}
+		.spotlight p
+		{
+			color: #86b946;
+    		font-family: "Aharoni";
+    		font-size: 29px;
+			
+		}
+.footer
+		{
+			background-color :#2D3B55 ; 	
+			width: 100%; 
+			height : 300px ;
+			text-align: center;
+		}
+		.col1
+		{
+			float:left;
+			width:100%;
+			color:#FFFFFF;
+			text-align:center ;
+			text-align:justify;
+			padding:  5px;
+			font-size:14px;
+			
+		}
+		.col2
+		{
+			-moz-border-bottom-colors: none;
+			-moz-border-left-colors: none;
+			-moz-border-right-colors: none;
+			-moz-border-top-colors: none;
+			border-color: -moz-use-text-color;
+			border-image: none;
+			border-style: none solid;
+			border-width: medium 2px;
+			color: #ffffff;
+			float: left;
+			text-align: center;
+			width: 100%;
+
+		}
+		.col3
+		{
+			float:left;
+			width:100%;
+			color:#FFFFFF;
+			text-align:center ;
+		}
+		.last_bar
+		{
+			float: left;
+			width: 100%;
+			height: 60px ;
+			background-color :#FE5E3E ;
+			text-align : center ;
+			
+		}
+		.last_bar a 
+		{
+			color : #FFFFFF;
+			text-decoration:none ;
+			text-align : center ;
+		}
+		.random_container
+		{
+			margin: 10px auto;
+    		text-align: center;
+    		width: 90%;
+			padding: 36px ;
+		}
+		.header 
+		{
+			 background-color: #2d3b55;
+    		margin-top: 33px;
+    		padding-top: 29px;
+    		width: 100%;
+		}
+		.spot
+		{
+			width : 100% ;
+		}
+		.container_limit
+		{
+			margin : auto ;
+			text-align:center ;
+			width:80%;
+		}
+		.navbar-default
+		{
+			background-color : #2D3B55;
+			border :none ;
+			margin : 0;
+			color :white ;
+		}
+.navbar-default .navbar-brand
+{
+	color :white ;
+}
+.ccc
+{
+    margin: auto;
+    width: 100%;
+	text-align:center ;
+}
+.list
+{
+	float : none ;
+	display: inline-block;
+	text-align:center ;
+
+}
